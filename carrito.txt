@@ -1,0 +1,1 @@
+[{"id":1,"fecha":"2023-04-27T12:22:55-06:00","productos":[{"id":4,"title":"Prueba1","description":"Prueba","code":125,"price":5000,"thumbnail":"thumbnail","stock":10}]}]
